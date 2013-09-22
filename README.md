@@ -5,6 +5,7 @@ AsyncImageView can load image asyncronously via network.
 
 You can just implement as follows.
 
+```antlr-objc:
 - (void)viewDidLoad {
     [super viewDidLoad];
     
@@ -12,3 +13,4 @@ You can just implement as follows.
     [self.view addSubview:asyncImageView];
     [asyncImageView setImageWithUrl:@"http://sample.com/hoge.png"];
 }
+```
