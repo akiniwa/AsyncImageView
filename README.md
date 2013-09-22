@@ -1,7 +1,7 @@
 AsyncImageView
 ==============
 
-AsyncImageView can load image asyncronously via network.
+AsyncImageView can load image asynchronously via network.
 
 You can just implement as follows.
 
